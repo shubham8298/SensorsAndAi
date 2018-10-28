@@ -1,5 +1,5 @@
 # SensorsAndAi
-SensorAndAi is an android application which will give you the complete information about all the sensors and some basic information about artificial intelligence.This application will tell you about the use and implementation of the sensor and artificial intelligence.This app will show you how sensor and artificial intelligence is used in any android project. It will also give you all the updates related to sensor and artificial intelligence.
+SensorAndAi is an android application which will give you complete information about all the sensors and some basic information about artificial intelligence.This application will let you know about the use and implementation of the sensor and artificial intelligence.This app will show  how sensor and artificial intelligence can be used in any android project. It will also give you all the updates related to sensor and artificial intelligence.
 
 ScreenShot and gif of application
 ![sensor ai](https://user-images.githubusercontent.com/31741209/38776964-8403365a-40bd-11e8-8ac8-a29f0169638f.gif)
